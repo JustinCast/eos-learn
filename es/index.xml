@@ -50,7 +50,7 @@ Framework de diseño Un contrato es un acuerdo en el que se rigen ciertas accion
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
       <guid>https://learn.eoscostarica.io/es/eosio-software/</guid>
-      <description>EOSIO es un protocolo de software de código abierto libre que provee a los desarrolladores y emprendedores una plataforma en la cual desarrollar, desplegar y correr aplicaciones descentralizadas de alto rendimiento.
+      <description>EOSIO es un protocolo de software de código abierto que provee a los desarrolladores y emprendedores una plataforma en la cual desarrollar, desplegar y correr aplicaciones descentralizadas de alto rendimiento.
 El software de EOSIO introduce una nueva arquitectura de blockchain diseñada para permitir escalabilidad horizontal y vertical de aplicaciones descentralizadas. Esto es logrado creando una construcción similar a un sistema operativo en el cual las aplicaciones pueden ser construidas. El software provee cuentas, autenticación, bases de datos, comunicación asíncrona y la programación de aplicaciones en muchos núcleos CPU o clústeres.</description>
     </item>
     
@@ -115,7 +115,7 @@ Jason Turner https://www.</description>
       <description>En EOS Costa Rica nosotros seguimos los principios de DevOps para construir y desplegar software.
 La automatización está en el top de nuestras prioridades, todo desde organización de directorios hasta optimización de código, pruebas, despliegue y entrega.
 Comunicación continua y frecuentes llamadas de uno en uno así como programación en parejas son partes esenciales de nuestro trabajo día a día .
-Entendiendo DevOps   Para lograr estos objetivos, nosotros aprovechamos un conjunto de tecnologías que son explicadas en los siguientes videos:</description>
+Entendiendo DevOps   Para lograr estos objetivos, aprovechamos un conjunto de tecnologías que son explicadas en los siguientes videos:</description>
     </item>
     
     <item>
